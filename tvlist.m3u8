@@ -5,6 +5,8 @@ https://padws.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWI1NzZjODIzZGRhMzQzNDIxNTk5Z
 https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
 #EXTINF:-1,CCTV-2
 https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv2_2/index.m3u8
+#EXTINF:-1,CCTV-13
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1,凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1,凤凰资讯
@@ -25,3 +27,9 @@ http://stream2.xiancity.cn/xatv4/playlist.m3u8
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1,中国村落-1
+http://v.cztvcloud.com//channel_new/zjstv_zbs/vod/2020/09/27/cd17deee151e4fbfb4a8f8ad69625c7d/1cae925120f04cc5be56b71bfc2eb866_H264_500K_MP4.mp4
+#EXTINF:-1,中国村落-2
+http://v.cztvcloud.com//channel_new/zjstv_zbs/vod/2020/09/27/69f157410e1f4bb0aa0d5ea1c3d95aa0/cf51f914a7804e90bd1dcd84172c7bda_H264_1500K_MP4.mp4
+#EXTINF:-1,中国村落-3
+http://v.cztvcloud.com//channel_new/zjstv_zbs/vod/2020/09/27/fddaf4c3195a4e2796a0942b5b5374b9/d0585902aed14b6791417d91d44d0ba9_H264_1500K_MP4.mp4
